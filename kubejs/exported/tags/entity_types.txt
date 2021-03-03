@@ -1,0 +1,70 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 2, 2021 4:34:43 PM
+
+#callablehorses:callablehorses
+- minecraft:horse
+- minecraft:donkey
+- minecraft:llama
+- minecraft:mule
+- minecraft:zombie_horse
+- minecraft:skeleton_horse
+
+#endergetic:not_balloon_attachable
+- endergetic:boof_block
+- endergetic:poise_cluster
+- endergetic:puff_bug
+- endergetic:booflo
+- endergetic:booflo_adolescent
+- endergetic:booflo_baby
+- minecraft:shulker
+- minecraft:horse
+- minecraft:armor_stand
+- minecraft:phantom
+- minecraft:ghast
+- minecraft:wither
+- minecraft:ender_dragon
+
+#seeker_compass:summonables
+- endergetic:booflo
+
+#endergetic:boof_block_resistant
+- endergetic:boof_block
+- endergetic:poise_cluster
+- endergetic:bolloom_fruit
+- endergetic:bolloom_balloon
+- minecraft:shulker
+- minecraft:painting
+- minecraft:vex
+- minecraft:item_frame
+- quark:glass_frame?
+- quark:colored_frame?
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- mekanism:flame
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow

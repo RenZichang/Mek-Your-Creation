@@ -1,0 +1,87 @@
+{
+  "type": "compactcrafting:miniaturization",
+  "version": 1,
+  "recipeSize": 5,
+  "layers": [
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["-", "-", "-", "-", "-"],
+        ["-", "-", "-", "-", "-"]
+      ]
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["BW", "WW", "WW", "WW", "BW"],
+        ["-", "-", "-", "-", "-"],
+        ["-", "-", "-", "-", "-"]
+      ]
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["-", "OW", "OW", "OW", "-"],
+        ["-", "OW", "OW", "OW", "-"]
+      ]
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["-", "-", "RW", "-", "-"],
+        ["-", "-", "-", "-", "-"]
+      ]
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["WW", "WW", "WW", "WW", "WW"],
+        ["-", "-", "RW", "-", "-"],
+        ["-", "-", "-", "-", "-"]
+      ]
+    }
+  ],
+
+  "catalyst": {
+    "id": "minecraft:egg",
+    "Count": 1
+  },
+
+  "components": {
+    "WW": {
+      "Name": "minecraft:white_wool"
+    },
+
+    "OW": {
+      "Name": "minecraft:orange_wool"
+    },
+
+    "RW": {
+      "Name": "minecraft:red_wool"
+    },
+
+    "BW": {
+      "Name": "minecraft:black_wool"
+    }
+  },
+
+  "outputs": [
+    {
+      "id": "minecraft:chicken_spawn_egg",
+      "Count": 1
+    }
+  ]
+}

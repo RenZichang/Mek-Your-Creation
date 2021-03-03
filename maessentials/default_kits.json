@@ -1,0 +1,14 @@
+{
+  "kits": {
+    "tools": {
+      "duration": 3600,
+      "items": [
+      ]
+    },
+    "enderchest": {
+      "duration": 86400,
+      "items": [
+      ]
+    }
+  }
+}

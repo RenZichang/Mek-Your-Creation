@@ -1,0 +1,492 @@
+{
+  "ores": [
+    {
+      "blocks": [
+        "minecraft:coal_ore",
+        70,
+        "minecraft:diamond_ore",
+        30
+      ],
+      "samples": [
+        "silentgems:pearl_glowrose",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 22,
+      "chance": 15,
+      "size": 60,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:stone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:andesite",
+        "minecraft:diorite",
+        "minecraft:granite",
+        "minecraft:dirt",
+        "create:gabbro",
+        "create:dolomite",
+        "create:limestone",
+        "create:weathered_limestone",
+        "create:natural_scoria",
+        "biomesoplenty:white_sand",
+        "biomesoplenty:white_sandstone",
+        "biomesoplenty:orange_sand",
+        "biomesoplenty:orange_sandstone",
+        "biomesoplenty:black_sand",
+        "biomesoplenty:black_sandstone"
+      ],
+      "type": "DENSE",
+      "density": 0.95
+    },
+    {
+      "blocks": [
+        "minecraft:coal_ore",
+        100
+      ],
+      "samples": [
+        "geolosys:coal_ore_sample",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 22,
+      "chance": 25,
+      "size": 15,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:stone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:andesite",
+        "minecraft:diorite",
+        "minecraft:granite",
+        "minecraft:dirt",
+        "create:gabbro",
+        "create:dolomite",
+        "create:limestone",
+        "create:weathered_limestone",
+        "create:natural_scoria",
+        "biomesoplenty:white_sand",
+        "biomesoplenty:white_sandstone",
+        "biomesoplenty:orange_sand",
+        "biomesoplenty:orange_sandstone",
+        "biomesoplenty:black_sand",
+        "biomesoplenty:black_sandstone"
+      ],
+      "type": "LAYER",
+      "density": 0.95
+    },
+    {
+      "blocks": [
+        "minecraft:iron_ore",
+        70,
+        "mekanism:osmium_ore",
+        30
+      ],
+      "samples": [
+        "geolosys:limonite_ore_sample",
+        100
+      ],
+      "yMin": 30,
+      "yMax": 40,
+      "chance": 25,
+      "size": 60,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:stone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:andesite",
+        "minecraft:diorite",
+        "minecraft:granite",
+        "minecraft:dirt",
+        "create:gabbro",
+        "create:dolomite",
+        "create:limestone",
+        "create:weathered_limestone",
+        "create:natural_scoria",
+        "biomesoplenty:white_sand",
+        "biomesoplenty:white_sandstone",
+        "biomesoplenty:orange_sand",
+        "biomesoplenty:orange_sandstone",
+        "biomesoplenty:black_sand",
+        "biomesoplenty:black_sandstone"
+      ],
+      "type": "DENSE",
+      "density": 0.95
+    },
+    {
+      "blocks": [
+        "create:copper_ore",
+        80,
+        "minecraft:redstone_ore",
+        20
+      ],
+      "samples": [
+        "geolosys:malachite_ore_sample",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 22,
+      "chance": 25,
+      "size": 60,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:stone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:andesite",
+        "minecraft:diorite",
+        "minecraft:granite",
+        "minecraft:dirt",
+        "create:gabbro",
+        "create:dolomite",
+        "create:limestone",
+        "create:weathered_limestone",
+        "create:natural_scoria",
+        "biomesoplenty:white_sand",
+        "biomesoplenty:white_sandstone",
+        "biomesoplenty:orange_sand",
+        "biomesoplenty:orange_sandstone",
+        "biomesoplenty:black_sand",
+        "biomesoplenty:black_sandstone"
+      ],
+      "type": "DENSE",
+      "density": 0.95
+    },
+    {
+      "blocks": [
+        "create:zinc_ore",
+        50,
+        "mekanism:tin_ore",
+        50
+      ],
+      "samples": [
+        "geolosys:sphalerite_ore_sample",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 22,
+      "chance": 25,
+      "size": 60,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:stone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:andesite",
+        "minecraft:diorite",
+        "minecraft:granite",
+        "minecraft:dirt",
+        "create:gabbro",
+        "create:dolomite",
+        "create:limestone",
+        "create:weathered_limestone",
+        "create:natural_scoria",
+        "biomesoplenty:white_sand",
+        "biomesoplenty:white_sandstone",
+        "biomesoplenty:orange_sand",
+        "biomesoplenty:orange_sandstone",
+        "biomesoplenty:black_sand",
+        "biomesoplenty:black_sandstone"
+      ],
+      "type": "DENSE",
+      "density": 0.95
+    },
+    {
+      "blocks": [
+        "minecraft:gold_ore",
+        50,
+        "silentgems:silver_ore",
+        50
+      ],
+      "samples": [
+        "geolosys:gold_ore_sample",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 22,
+      "chance": 25,
+      "size": 60,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:stone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:andesite",
+        "minecraft:diorite",
+        "minecraft:granite",
+        "minecraft:dirt",
+        "create:gabbro",
+        "create:dolomite",
+        "create:limestone",
+        "create:weathered_limestone",
+        "create:natural_scoria",
+        "biomesoplenty:white_sand",
+        "biomesoplenty:white_sandstone",
+        "biomesoplenty:orange_sand",
+        "biomesoplenty:orange_sandstone",
+        "biomesoplenty:black_sand",
+        "biomesoplenty:black_sandstone"
+      ],
+      "type": "DENSE",
+      "density": 0.95
+    },
+    {
+      "blocks": [
+        "minecraft:lapis_ore",
+        80,
+        "silentgems:chaos_ore",
+        20
+      ],
+      "samples": [
+        "geolosys:lapis_ore_sample",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 22,
+      "chance": 25,
+      "size": 60,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:stone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:andesite",
+        "minecraft:diorite",
+        "minecraft:granite",
+        "minecraft:dirt",
+        "create:gabbro",
+        "create:dolomite",
+        "create:limestone",
+        "create:weathered_limestone",
+        "create:natural_scoria",
+        "biomesoplenty:white_sand",
+        "biomesoplenty:white_sandstone",
+        "biomesoplenty:orange_sand",
+        "biomesoplenty:orange_sandstone",
+        "biomesoplenty:black_sand",
+        "biomesoplenty:black_sandstone"
+      ],
+      "type": "DENSE",
+      "density": 0.3
+    },
+    {
+      "blocks": [
+        "minecraft:redstone_ore",
+        80,
+        "silentgems:chaos_ore",
+        20
+      ],
+      "samples": [
+        "geolosys:cinnabar_ore_sample",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 22,
+      "chance": 25,
+      "size": 60,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:stone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:andesite",
+        "minecraft:diorite",
+        "minecraft:granite",
+        "minecraft:dirt",
+        "create:gabbro",
+        "create:dolomite",
+        "create:limestone",
+        "create:weathered_limestone",
+        "create:natural_scoria",
+        "biomesoplenty:white_sand",
+        "biomesoplenty:white_sandstone",
+        "biomesoplenty:orange_sand",
+        "biomesoplenty:orange_sandstone",
+        "biomesoplenty:black_sand",
+        "biomesoplenty:black_sandstone"
+      ],
+      "type": "DENSE",
+      "density": 0.3
+    },
+    {
+      "blocks": [
+        "minecraft:emerald_ore",
+        100
+      ],
+      "samples": [
+        "geolosys:beryl_ore_sample",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 22,
+      "chance": 13,
+      "size": 12,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:stone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:andesite",
+        "minecraft:diorite",
+        "minecraft:granite",
+        "minecraft:dirt",
+        "create:gabbro",
+        "create:dolomite",
+        "create:limestone",
+        "create:weathered_limestone",
+        "create:natural_scoria",
+        "biomesoplenty:white_sand",
+        "biomesoplenty:white_sandstone",
+        "biomesoplenty:orange_sand",
+        "biomesoplenty:orange_sandstone",
+        "biomesoplenty:black_sand",
+        "biomesoplenty:black_sandstone"
+      ],
+      "type": "DENSE",
+      "density": 0.95
+    },
+    {
+      "blocks": [
+        "minecraft:ancient_debris",
+        100
+      ],
+      "samples": [
+        "geolosys:ancient_debris_ore_sample",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 22,
+      "chance": 100,
+      "size": 20,
+      "dimBlacklist": [
+        "overworld",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:netherrack",
+        "minecraft:basalt",
+        "minecraft:blackstone",
+        "minecraft:magma_block",
+        "minecraft:lava",
+        "minecraft:nether_wart_block",
+        "minecraft:warped_nylium",
+        "minecraft:crimson_nylium",
+        "minecraft:soul_sand",
+        "minecraft:soul_soil",
+        "biomesoplenty:flesh",
+        "minecraft:bone_block"
+      ],
+      "type": "DENSE",
+      "density": 0.95
+    },
+    {
+      "blocks": [
+        "minecraft:nether_gold_ore",
+        10,
+        "minecraft:nether_quartz_ore",
+        90
+      ],
+      "samples": [
+        "geolosys:nether_gold_ore_sample",
+        100
+      ],
+      "yMin": 6,
+      "yMax": 110,
+      "chance": 100,
+      "size": 70,
+      "dimBlacklist": [
+        "overworld",
+        "the_end"
+      ],
+      "blockStateMatchers": [
+        "minecraft:netherrack",
+        "minecraft:basalt",
+        "minecraft:blackstone",
+        "minecraft:magma_block",
+        "minecraft:lava",
+        "minecraft:nether_wart_block",
+        "minecraft:warped_nylium",
+        "minecraft:crimson_nylium",
+        "minecraft:soul_sand",
+        "minecraft:soul_soil",
+        "biomesoplenty:flesh",
+        "minecraft:bone_block"
+      ],
+      "type": "DENSE",
+      "density": 0.60
+    }
+  ],
+  "stones": [
+    {
+      "block": "minecraft:granite",
+      "size": 75,
+      "chance": 10,
+      "yMin": 2,
+      "yMax": 70,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ]
+    },
+    {
+      "block": "minecraft:diorite",
+      "size": 75,
+      "chance": 10,
+      "yMin": 2,
+      "yMax": 70,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ]
+    },
+    {
+      "block": "minecraft:andesite",
+      "size": 75,
+      "chance": 10,
+      "yMin": 2,
+      "yMax": 70,
+      "dimBlacklist": [
+        "the_nether",
+        "the_end"
+      ]
+    }
+  ]
+}

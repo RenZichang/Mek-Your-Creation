@@ -1,0 +1,3260 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 2, 2021 4:34:43 PM
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#forge:ores/heliodor
+- silentgems:heliodor_ore
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#biomesoplenty:hellbark_logs
+- biomesoplenty:hellbark_log
+- biomesoplenty:hellbark_wood
+- biomesoplenty:stripped_hellbark_log
+- biomesoplenty:stripped_hellbark_wood
+
+#silentgems:glowroses/topaz
+- silentgems:topaz_glowrose
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#forge:ores/coral
+- silentgems:coral_ore
+
+#forge:ores/sunstone
+- silentgems:sunstone_ore
+
+#forge:storage_blocks/turquoise
+- silentgems:turquoise_block
+
+#forge:storage_blocks/ametrine
+- silentgems:ametrine_block
+
+#minecraft:dragon_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+- minecraft:obsidian
+- minecraft:crying_obsidian
+- minecraft:end_stone
+- minecraft:iron_bars
+- minecraft:respawn_anchor
+- supplementaries:piston_launcher_arm
+- supplementaries:safe
+- endergetic:mystical_obsidian
+- endergetic:mystical_obsidian_wall
+- endergetic:mystical_obsidian_rune
+- endergetic:mystical_obsidian_activation_rune
+- endergetic:activated_mystical_obsidian_activation_rune
+- endergetic:acidian_lantern
+- endergetic:crystal_holder
+- endergetic:ender_fire
+- endergetic:poismoss
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+
+#forge:chests
+- #forge:chests/electric
+- #forge:chests/personal
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- minecraft:redstone_ore
+
+#silentgems:gem_blocks
+- #forge:storage_blocks/ruby
+- #forge:storage_blocks/garnet
+- #forge:storage_blocks/topaz
+- #forge:storage_blocks/amber
+- #forge:storage_blocks/heliodor
+- #forge:storage_blocks/peridot
+- #forge:storage_blocks/green_sapphire
+- #forge:storage_blocks/phosphophyllite
+- #forge:storage_blocks/aquamarine
+- #forge:storage_blocks/sapphire
+- #forge:storage_blocks/tanzanite
+- #forge:storage_blocks/amethyst
+- #forge:storage_blocks/agate
+- #forge:storage_blocks/morganite
+- #forge:storage_blocks/onyx
+- #forge:storage_blocks/opal
+- #forge:storage_blocks/carnelian
+- #forge:storage_blocks/spinel
+- #forge:storage_blocks/citrine
+- #forge:storage_blocks/jasper
+- #forge:storage_blocks/zircon
+- #forge:storage_blocks/moldavite
+- #forge:storage_blocks/malachite
+- #forge:storage_blocks/turquoise
+- #forge:storage_blocks/euclase
+- #forge:storage_blocks/benitoite
+- #forge:storage_blocks/iolite
+- #forge:storage_blocks/alexandrite
+- #forge:storage_blocks/lepidolite
+- #forge:storage_blocks/ametrine
+- #forge:storage_blocks/black_diamond
+- #forge:storage_blocks/moonstone
+- #forge:storage_blocks/pyrope
+- #forge:storage_blocks/coral
+- #forge:storage_blocks/sunstone
+- #forge:storage_blocks/cats_eye
+- #forge:storage_blocks/yellow_diamond
+- #forge:storage_blocks/jade
+- #forge:storage_blocks/chrysoprase
+- #forge:storage_blocks/apatite
+- #forge:storage_blocks/fluorite
+- #forge:storage_blocks/kyanite
+- #forge:storage_blocks/sodalite
+- #forge:storage_blocks/ammolite
+- #forge:storage_blocks/kunzite
+- #forge:storage_blocks/rose_quartz
+- #forge:storage_blocks/tektite
+- #forge:storage_blocks/pearl
+
+#forge:storage_blocks/uranium
+- mekanism:block_uranium
+
+#forge:ores/crimson_iron
+- silentgear:crimson_iron_ore
+
+#forge:glass/red
+- minecraft:red_stained_glass
+
+#ftbchunks:interact_whitelist
+- minecraft:crafting_table
+- #tombstone:graves?
+- waystones:waystone?
+- waystones:mossy_waystone?
+- waystones:sandy_waystone?
+
+#forge:ores/lepidolite
+- silentgems:lepidolite_ore
+
+#silentgems:glowroses/zircon
+- silentgems:zircon_glowrose
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#silentgems:glowroses/moldavite
+- silentgems:moldavite_glowrose
+
+#forge:storage_blocks/chaos_iron
+- silentgems:chaos_iron_block
+
+#minecraft:prevent_mob_spawning_inside
+- #minecraft:rails
+
+#forge:chests/trapped
+- minecraft:trapped_chest
+- endergetic:poise_trapped_chest
+
+#forge:storage_blocks/peridot
+- silentgems:peridot_block
+
+#structure_gel:gel
+- structure_gel:red_gel
+- structure_gel:blue_gel
+- structure_gel:green_gel
+- structure_gel:cyan_gel
+- structure_gel:orange_gel
+- structure_gel:yellow_gel
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+
+#silentgems:glowroses/aquamarine
+- silentgems:aquamarine_glowrose
+
+#forge:ores/pyrope
+- silentgems:pyrope_ore
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+- biomesoplenty:black_sandstone
+- biomesoplenty:cut_black_sandstone
+- biomesoplenty:chiseled_black_sandstone
+- biomesoplenty:smooth_black_sandstone
+- biomesoplenty:orange_sandstone
+- biomesoplenty:cut_orange_sandstone
+- biomesoplenty:chiseled_orange_sandstone
+- biomesoplenty:smooth_orange_sandstone
+- biomesoplenty:white_sandstone
+- biomesoplenty:cut_white_sandstone
+- biomesoplenty:chiseled_white_sandstone
+- biomesoplenty:smooth_white_sandstone
+
+#forge:storage_blocks/copper
+- mekanism:block_copper
+- create:copper_block
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+
+#silentgems:glowroses/morganite
+- silentgems:morganite_glowrose
+
+#forge:storage_blocks/aquamarine
+- silentgems:aquamarine_block
+
+#silentgems:glowroses/iolite
+- silentgems:iolite_glowrose
+
+#forge:storage_blocks/iolite
+- silentgems:iolite_block
+
+#forge:storage_blocks/tektite
+- silentgems:tektite_block
+
+#forge:ores/bort
+- silentgear:bort_ore
+
+#forge:storage_blocks/chaos
+- silentgems:chaos_crystal_block
+
+#silentgems:glowroses/onyx
+- silentgems:onyx_glowrose
+
+#forge:storage_blocks/azure_electrum
+- silentgear:azure_electrum_block
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#forge:ores/diamond
+- minecraft:diamond_ore
+
+#silentgems:fluffy_blocks
+- silentgems:white_fluffy_block
+- silentgems:orange_fluffy_block
+- silentgems:magenta_fluffy_block
+- silentgems:light_blue_fluffy_block
+- silentgems:yellow_fluffy_block
+- silentgems:lime_fluffy_block
+- silentgems:pink_fluffy_block
+- silentgems:gray_fluffy_block
+- silentgems:light_gray_fluffy_block
+- silentgems:cyan_fluffy_block
+- silentgems:purple_fluffy_block
+- silentgems:blue_fluffy_block
+- silentgems:brown_fluffy_block
+- silentgems:green_fluffy_block
+- silentgems:red_fluffy_block
+- silentgems:black_fluffy_block
+
+#forge:ores/lead
+- mekanism:lead_ore
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- buzzier_bees:honeycomb_door
+- supplementaries:gold_door
+
+#forge:relocation_not_supported
+- mekanism:cardboard_box
+- mekanism:bounding_block
+- mekanism:advanced_bounding_block
+- mekanism:security_desk
+- mekanism:digital_miner
+- mekanism:seismic_vibrator
+- mekanism:solar_neutron_activator
+- mekanism:modification_station
+- mekanism:isotopic_centrifuge
+- mekanism:radioactive_waste_barrel
+- mekanism:pressurized_reaction_chamber
+- mekanism:basic_pressurized_tube
+- mekanism:advanced_pressurized_tube
+- mekanism:elite_pressurized_tube
+- mekanism:ultimate_pressurized_tube
+- mekanismgenerators:advanced_solar_generator
+- mekanismgenerators:wind_generator
+
+#forge:ores/pearl
+- silentgems:pearl_ore
+
+#minecraft:infiniburn_overworld
+- minecraft:netherrack
+- minecraft:magma_block
+
+#minecraft:flower_pots
+- minecraft:flower_pot
+- minecraft:potted_poppy
+- minecraft:potted_blue_orchid
+- minecraft:potted_allium
+- minecraft:potted_azure_bluet
+- minecraft:potted_red_tulip
+- minecraft:potted_orange_tulip
+- minecraft:potted_white_tulip
+- minecraft:potted_pink_tulip
+- minecraft:potted_oxeye_daisy
+- minecraft:potted_dandelion
+- minecraft:potted_oak_sapling
+- minecraft:potted_spruce_sapling
+- minecraft:potted_birch_sapling
+- minecraft:potted_jungle_sapling
+- minecraft:potted_acacia_sapling
+- minecraft:potted_dark_oak_sapling
+- minecraft:potted_red_mushroom
+- minecraft:potted_brown_mushroom
+- minecraft:potted_dead_bush
+- minecraft:potted_fern
+- minecraft:potted_cactus
+- minecraft:potted_cornflower
+- minecraft:potted_lily_of_the_valley
+- minecraft:potted_wither_rose
+- minecraft:potted_bamboo
+- minecraft:potted_crimson_fungus
+- minecraft:potted_warped_fungus
+- minecraft:potted_crimson_roots
+- minecraft:potted_warped_roots
+- buzzier_bees:potted_white_clover
+- buzzier_bees:potted_pink_clover
+- buzzier_bees:potted_buttercup
+- endergetic:potted_poise_bush
+- endergetic:potted_tall_poise_bush
+- biomesoplenty:potted_origin_sapling
+- biomesoplenty:potted_flowering_oak_sapling
+- biomesoplenty:potted_rainbow_birch_sapling
+- biomesoplenty:potted_yellow_autumn_sapling
+- biomesoplenty:potted_orange_autumn_sapling
+- biomesoplenty:potted_maple_sapling
+- biomesoplenty:potted_fir_sapling
+- biomesoplenty:potted_redwood_sapling
+- biomesoplenty:potted_white_cherry_sapling
+- biomesoplenty:potted_pink_cherry_sapling
+- biomesoplenty:potted_mahogany_sapling
+- biomesoplenty:potted_jacaranda_sapling
+- biomesoplenty:potted_palm_sapling
+- biomesoplenty:potted_willow_sapling
+- biomesoplenty:potted_dead_sapling
+- biomesoplenty:potted_magic_sapling
+- biomesoplenty:potted_umbran_sapling
+- biomesoplenty:potted_hellbark_sapling
+- biomesoplenty:potted_rose
+- biomesoplenty:potted_violet
+- biomesoplenty:potted_lavender
+- biomesoplenty:potted_wildflower
+- biomesoplenty:potted_orange_cosmos
+- biomesoplenty:potted_pink_daffodil
+- biomesoplenty:potted_pink_hibiscus
+- biomesoplenty:potted_glowflower
+- biomesoplenty:potted_wilted_lily
+- biomesoplenty:potted_burning_blossom
+- biomesoplenty:potted_sprout
+- biomesoplenty:potted_toadstool
+- biomesoplenty:potted_glowshroom
+- silentgems:potted_ruby_glowrose
+- silentgems:potted_garnet_glowrose
+- silentgems:potted_topaz_glowrose
+- silentgems:potted_amber_glowrose
+- silentgems:potted_heliodor_glowrose
+- silentgems:potted_peridot_glowrose
+- silentgems:potted_green_sapphire_glowrose
+- silentgems:potted_phosphophyllite_glowrose
+- silentgems:potted_aquamarine_glowrose
+- silentgems:potted_sapphire_glowrose
+- silentgems:potted_tanzanite_glowrose
+- silentgems:potted_amethyst_glowrose
+- silentgems:potted_agate_glowrose
+- silentgems:potted_morganite_glowrose
+- silentgems:potted_onyx_glowrose
+- silentgems:potted_opal_glowrose
+- silentgems:potted_carnelian_glowrose
+- silentgems:potted_spinel_glowrose
+- silentgems:potted_citrine_glowrose
+- silentgems:potted_jasper_glowrose
+- silentgems:potted_zircon_glowrose
+- silentgems:potted_moldavite_glowrose
+- silentgems:potted_malachite_glowrose
+- silentgems:potted_turquoise_glowrose
+- silentgems:potted_euclase_glowrose
+- silentgems:potted_benitoite_glowrose
+- silentgems:potted_iolite_glowrose
+- silentgems:potted_alexandrite_glowrose
+- silentgems:potted_lepidolite_glowrose
+- silentgems:potted_ametrine_glowrose
+- silentgems:potted_black_diamond_glowrose
+- silentgems:potted_moonstone_glowrose
+- silentgems:potted_pyrope_glowrose
+- silentgems:potted_coral_glowrose
+- silentgems:potted_sunstone_glowrose
+- silentgems:potted_cats_eye_glowrose
+- silentgems:potted_yellow_diamond_glowrose
+- silentgems:potted_jade_glowrose
+- silentgems:potted_chrysoprase_glowrose
+- silentgems:potted_apatite_glowrose
+- silentgems:potted_fluorite_glowrose
+- silentgems:potted_kyanite_glowrose
+- silentgems:potted_sodalite_glowrose
+- silentgems:potted_ammolite_glowrose
+- silentgems:potted_kunzite_glowrose
+- silentgems:potted_rose_quartz_glowrose
+- silentgems:potted_tektite_glowrose
+- silentgems:potted_pearl_glowrose
+
+#supplementaries:posts
+- #minecraft:fences
+- quark:oak_post?
+- adorn:birch_post?
+- adorn:spruce_post?
+- adorn:acacia_post?
+- adorn:dark_oak_post?
+- adorn:jungle_post?
+- adorn:warped_post?
+- adorn:crimson_post?
+- adorn:stone_post?
+- adorn:cobblestone_post?
+- adorn:sandstone_post?
+- adorn:diorite_post?
+- adorn:andesite_post?
+- adorn:granite_post?
+- adorn:brick_post?
+- adorn:stone_brick_post?
+- adorn:red_sandstone_post?
+- adorn:nether_brick_post?
+- adorn:basalt_post?
+- adorn:blackstone_post?
+- adorn:red_nether_brick_post?
+- adorn:prismarine_post?
+- adorn:quartz_post?
+- adorn:end_stone_brick_post?
+- adorn:purpur_post?
+- adorn:polished_blackstone_post?
+- adorn:polished_blackstone_brick_post?
+- adorn:polished_diorite_post?
+- adorn:polished_andesite_post?
+- adorn:polished_granite_post?
+- adorn:prismarine_brick_post?
+- adorn:dark_prismarine_post?
+- adorn:cut_snadstone_post?
+- adorn:smooth_sandstone_post?
+- adorn:cut_red_sandstone_post?
+- adorn:smooth_red_sandstone_post?
+- adorn:smooth_stone_post?
+- adorn:mossy_cobblestone_post?
+- adorn:mossy_stone_brick_post?
+- car:sign_post?
+- mysticalworld:thatch_small_post?
+- mysticalworld:red_mushroom_small_post?
+- mysticalworld:brown_mushroom_small_post?
+- mysticalworld:mushroom_stem_small_post?
+- mysticalworld:mushroom_inside_small_post?
+- mysticalworld:mud_block_small_post?
+- mysticalworld:mud_brick_small_post?
+- mysticalworld:charred_small_post?
+- mysticalworld:terracotta_brick_small_post?
+- mysticalworld:iron_brick_small_post?
+- mysticalworld:soft_stone_small_post?
+- mysticalworld:cracked_stone_small_post?
+- mysticalworld:blackened_stone_small_post?
+- mysticalworld:soft_obsidian_small_post?
+- mysticalworld:amethyst_small_post?
+- mysticalworld:copper_small_post?
+- mysticalworld:lead_small_post?
+- mysticalworld:quicksilver_small_post?
+- mysticalworld:silver_small_post?
+- mysticalworld:tin_small_post?
+- quark:oak_post?
+- quark:birch_post?
+- quark:spruce_post?
+- quark:acacia_post?
+- quark:dark_oak_post?
+- quark:jungle_post?
+- quark:warped_post?
+- quark:crimson_post?
+- quark:stripped_oak_post?
+- quark:stripped_birch_post?
+- quark:stripped_spruce_post?
+- quark:stripped_acacia_post?
+- quark:stripped_dark_oak_post?
+- quark:stripped_jungle_post?
+- quark:stripped_warped_post?
+- quark:stripped_crimson_post?
+
+#forge:ores/malachite
+- silentgems:malachite_ore
+
+#silentgems:glowroses/black_diamond
+- silentgems:black_diamond_glowrose
+
+#forge:ores/tin
+- mekanism:tin_ore
+
+#forge:glass/white
+- minecraft:white_stained_glass
+
+#forge:storage_blocks/chaos_coal
+- silentgems:chaos_iron_block
+
+#minecraft:signs
+- #minecraft:standing_signs
+- #minecraft:wall_signs
+
+#silentgems:pedestals
+- silentgems:stone_pedestal
+- silentgems:granite_pedestal
+- silentgems:diorite_pedestal
+- silentgems:andesite_pedestal
+- silentgems:obsidian_pedestal
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#biomesoplenty:willow_logs
+- biomesoplenty:willow_log
+- biomesoplenty:willow_wood
+- biomesoplenty:stripped_willow_log
+- biomesoplenty:stripped_willow_wood
+
+#minecraft:wither_summon_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#forge:storage_blocks/tanzanite
+- silentgems:tanzanite_block
+
+#forge:storage_blocks/morganite
+- silentgems:morganite_block
+
+#forge:storage_blocks/osmium
+- mekanism:block_osmium
+
+#minecraft:hoglin_repellents
+- minecraft:warped_fungus
+- minecraft:potted_warped_fungus
+- minecraft:nether_portal
+- minecraft:respawn_anchor
+- mekanism:teleporter
+- mekanism:quantum_entangloporter
+
+#mekanism:cardboard_blacklist
+- #forge:relocation_not_supported
+- minecraft:white_bed
+- minecraft:orange_bed
+- minecraft:magenta_bed
+- minecraft:light_blue_bed
+- minecraft:yellow_bed
+- minecraft:lime_bed
+- minecraft:pink_bed
+- minecraft:gray_bed
+- minecraft:light_gray_bed
+- minecraft:cyan_bed
+- minecraft:purple_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:green_bed
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:iron_door
+
+#forge:storage_blocks/malachite
+- silentgems:malachite_block
+
+#create:fan_transparent
+- create:blaze_burner
+- create:lit_blaze_burner
+- create:sail_frame
+- #minecraft:fences
+- minecraft:iron_bars
+
+#forge:ores/topaz
+- silentgems:topaz_ore
+
+#endergetic:poise_stems
+- endergetic:poise_stem
+- endergetic:stripped_poise_stem
+- endergetic:poise_wood
+- endergetic:stripped_poise_wood
+- endergetic:glowing_poise_stem
+- endergetic:glowing_poise_wood
+
+#forge:storage_blocks/spinel
+- silentgems:spinel_block
+
+#forge:storage_blocks/sapphire
+- silentgems:sapphire_block
+
+#forge:sand/colorless
+- minecraft:sand
+
+#endergetic:end_plantable
+- endergetic:eumus
+
+#forge:storage_blocks/kyanite
+- silentgems:kyanite_block
+
+#forge:ores/jade
+- silentgems:jade_ore
+
+#forge:storage_blocks/crimson_iron
+- silentgear:crimson_iron_block
+
+#forge:storage_blocks/bort
+- silentgear:bort_block
+
+#minecraft:soul_speed_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#forge:storage_blocks/charcoal
+- mekanism:block_charcoal
+
+#forge:storage_blocks/moonstone
+- silentgems:moonstone_block
+
+#silentgems:glowroses/heliodor
+- silentgems:heliodor_glowrose
+
+#silentgems:glowroses/tektite
+- silentgems:tektite_glowrose
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- infernalexp:glowdust_sandstone_wall
+- buzzier_bees:honeycomb_brick_wall
+- buzzier_bees:honeycomb_tile_wall
+- create:granite_cobblestone_wall
+- create:granite_bricks_wall
+- create:fancy_granite_bricks_wall
+- create:paved_granite_wall
+- create:diorite_cobblestone_wall
+- create:diorite_bricks_wall
+- create:fancy_diorite_bricks_wall
+- create:paved_diorite_wall
+- create:andesite_cobblestone_wall
+- create:andesite_bricks_wall
+- create:fancy_andesite_bricks_wall
+- create:paved_andesite_wall
+- create:limestone_cobblestone_wall
+- create:polished_limestone_wall
+- create:limestone_bricks_wall
+- create:fancy_limestone_bricks_wall
+- create:paved_limestone_wall
+- create:weathered_limestone_cobblestone_wall
+- create:polished_weathered_limestone_wall
+- create:weathered_limestone_bricks_wall
+- create:fancy_weathered_limestone_bricks_wall
+- create:paved_weathered_limestone_wall
+- create:dolomite_cobblestone_wall
+- create:polished_dolomite_wall
+- create:dolomite_bricks_wall
+- create:fancy_dolomite_bricks_wall
+- create:paved_dolomite_wall
+- create:gabbro_cobblestone_wall
+- create:polished_gabbro_wall
+- create:gabbro_bricks_wall
+- create:fancy_gabbro_bricks_wall
+- create:paved_gabbro_wall
+- create:scoria_cobblestone_wall
+- create:polished_scoria_wall
+- create:scoria_bricks_wall
+- create:fancy_scoria_bricks_wall
+- create:paved_scoria_wall
+- create:dark_scoria_cobblestone_wall
+- create:polished_dark_scoria_wall
+- create:dark_scoria_bricks_wall
+- create:fancy_dark_scoria_bricks_wall
+- create:paved_dark_scoria_wall
+- endergetic:mystical_obsidian_wall
+- endergetic:eumus_brick_wall
+- biomesoplenty:black_sandstone_wall
+- biomesoplenty:orange_sandstone_wall
+- biomesoplenty:white_sandstone_wall
+- biomesoplenty:mud_brick_wall
+
+#minecraft:coral_blocks
+- minecraft:tube_coral_block
+- minecraft:brain_coral_block
+- minecraft:bubble_coral_block
+- minecraft:fire_coral_block
+- minecraft:horn_coral_block
+
+#forge:storage_blocks/black_diamond
+- silentgems:black_diamond_block
+
+#forge:ores/yellow_diamond
+- silentgems:yellow_diamond_ore
+
+#forge:glass/green
+- minecraft:green_stained_glass
+
+#forge:storage_blocks/lead
+- mekanism:block_lead
+
+#silentgear:prospector_hammer_targets
+- minecraft:ancient_debris
+- #forge:ores
+
+#forge:ores/tektite
+- silentgems:tektite_ore
+
+#minecraft:underwater_bonemeals
+- minecraft:seagrass
+- #minecraft:corals
+- #minecraft:wall_corals
+
+#forge:ores/moldavite
+- silentgems:moldavite_ore
+
+#ftbchunks:edit_whitelist
+- gravestone:gravestone?
+
+#minecraft:impermeable
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+- create:oak_window
+- create:spruce_window
+- create:birch_window
+- create:jungle_window
+- create:acacia_window
+- create:dark_oak_window
+- create:crimson_window
+- create:warped_window
+- create:ornate_iron_window
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+- biomesoplenty:black_sand
+- biomesoplenty:orange_sand
+- biomesoplenty:white_sand
+
+#forge:end_stones
+- minecraft:end_stone
+
+#forge:storage_blocks/fluorite
+- silentgems:fluorite_block
+
+#biomesoplenty:fir_logs
+- biomesoplenty:fir_log
+- biomesoplenty:fir_wood
+- biomesoplenty:stripped_fir_log
+- biomesoplenty:stripped_fir_wood
+
+#silentgems:glowroses/sunstone
+- silentgems:sunstone_glowrose
+
+#forge:wg_stone
+- create:limestone
+- create:weathered_limestone
+- create:gabbro
+- create:dolomite
+- create:natural_scoria
+
+#forge:fences/wooden
+- minecraft:oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- endergetic:poise_fence
+- biomesoplenty:fir_fence
+- biomesoplenty:redwood_fence
+- biomesoplenty:cherry_fence
+- biomesoplenty:mahogany_fence
+- biomesoplenty:jacaranda_fence
+- biomesoplenty:palm_fence
+- biomesoplenty:willow_fence
+- biomesoplenty:dead_fence
+- biomesoplenty:magic_fence
+- biomesoplenty:umbran_fence
+- biomesoplenty:hellbark_fence
+
+#forge:storage_blocks
+- #forge:storage_blocks/bronze
+- #forge:storage_blocks/charcoal
+- #forge:storage_blocks/refined_glowstone
+- #forge:storage_blocks/refined_obsidian
+- #forge:storage_blocks/steel
+- #forge:storage_blocks/osmium
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/tin
+- #forge:storage_blocks/lead
+- #forge:storage_blocks/uranium
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+- #forge:storage_blocks/bort
+- #forge:storage_blocks/blaze_gold
+- #forge:storage_blocks/crimson_iron
+- #forge:storage_blocks/crimson_steel
+- #forge:storage_blocks/azure_silver
+- #forge:storage_blocks/azure_electrum
+- #forge:storage_blocks/tyrian_steel
+- #forge:storage_blocks/chaos
+- #forge:storage_blocks/chaos_coal
+- #forge:storage_blocks/chaos_iron
+- #forge:storage_blocks/silver
+- #forge:storage_blocks/ruby
+- #forge:storage_blocks/garnet
+- #forge:storage_blocks/topaz
+- #forge:storage_blocks/amber
+- #forge:storage_blocks/heliodor
+- #forge:storage_blocks/peridot
+- #forge:storage_blocks/green_sapphire
+- #forge:storage_blocks/phosphophyllite
+- #forge:storage_blocks/aquamarine
+- #forge:storage_blocks/sapphire
+- #forge:storage_blocks/tanzanite
+- #forge:storage_blocks/amethyst
+- #forge:storage_blocks/agate
+- #forge:storage_blocks/morganite
+- #forge:storage_blocks/onyx
+- #forge:storage_blocks/opal
+- #forge:storage_blocks/carnelian
+- #forge:storage_blocks/spinel
+- #forge:storage_blocks/citrine
+- #forge:storage_blocks/jasper
+- #forge:storage_blocks/zircon
+- #forge:storage_blocks/moldavite
+- #forge:storage_blocks/malachite
+- #forge:storage_blocks/turquoise
+- #forge:storage_blocks/euclase
+- #forge:storage_blocks/benitoite
+- #forge:storage_blocks/iolite
+- #forge:storage_blocks/alexandrite
+- #forge:storage_blocks/lepidolite
+- #forge:storage_blocks/ametrine
+- #forge:storage_blocks/black_diamond
+- #forge:storage_blocks/moonstone
+- #forge:storage_blocks/pyrope
+- #forge:storage_blocks/coral
+- #forge:storage_blocks/sunstone
+- #forge:storage_blocks/cats_eye
+- #forge:storage_blocks/yellow_diamond
+- #forge:storage_blocks/jade
+- #forge:storage_blocks/chrysoprase
+- #forge:storage_blocks/apatite
+- #forge:storage_blocks/fluorite
+- #forge:storage_blocks/kyanite
+- #forge:storage_blocks/sodalite
+- #forge:storage_blocks/ammolite
+- #forge:storage_blocks/kunzite
+- #forge:storage_blocks/rose_quartz
+- #forge:storage_blocks/tektite
+- #forge:storage_blocks/pearl
+
+#minecraft:campfires
+- minecraft:campfire
+- minecraft:soul_campfire
+- infernalexp:campfire_glow
+- endergetic:ender_campfire
+- doubleslabs:raised_campfire
+- doubleslabs:raised_soul_campfire
+
+#minecraft:infiniburn_nether
+- #minecraft:infiniburn_overworld
+
+#silentgems:glowroses/opal
+- silentgems:opal_glowrose
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#forge:storage_blocks/heliodor
+- silentgems:heliodor_block
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#forge:storage_blocks/garnet
+- silentgems:garnet_block
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- endergetic:poise_trapdoor
+- biomesoplenty:fir_trapdoor
+- biomesoplenty:redwood_trapdoor
+- biomesoplenty:cherry_trapdoor
+- biomesoplenty:mahogany_trapdoor
+- biomesoplenty:jacaranda_trapdoor
+- biomesoplenty:palm_trapdoor
+- biomesoplenty:willow_trapdoor
+- biomesoplenty:dead_trapdoor
+- biomesoplenty:magic_trapdoor
+- biomesoplenty:umbran_trapdoor
+- biomesoplenty:hellbark_trapdoor
+- silentgear:netherwood_trapdoor
+
+#create:valve_handles
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+
+#silentgems:glowroses/ruby
+- silentgems:ruby_glowrose
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#forge:ores/chrysoprase
+- silentgems:chrysoprase_ore
+
+#silentgems:glowroses/garnet
+- silentgems:garnet_glowrose
+
+#forge:storage_blocks/euclase
+- silentgems:euclase_block
+
+#windowlogging:windowable
+- #minecraft:stairs
+- #minecraft:wooden_stairs
+- #minecraft:wooden_slabs
+- #minecraft:slabs
+- #minecraft:walls
+- #minecraft:fences
+- #minecraft:wooden_fences
+- #forge:fences
+- #forge:fences/wooden
+- #forge:fences/nether_brick
+- doubleslabs:vertical_slab?
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#forge:storage_blocks/yellow_diamond
+- silentgems:yellow_diamond_block
+
+#forge:storage_blocks/amethyst
+- silentgems:amethyst_block
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- buzzier_bees:honeycomb_brick_stairs
+- buzzier_bees:honeycomb_tile_stairs
+- create:granite_cobblestone_stairs
+- create:granite_bricks_stairs
+- create:fancy_granite_bricks_stairs
+- create:paved_granite_stairs
+- create:diorite_cobblestone_stairs
+- create:diorite_bricks_stairs
+- create:fancy_diorite_bricks_stairs
+- create:paved_diorite_stairs
+- create:andesite_cobblestone_stairs
+- create:andesite_bricks_stairs
+- create:fancy_andesite_bricks_stairs
+- create:paved_andesite_stairs
+- create:limestone_cobblestone_stairs
+- create:polished_limestone_stairs
+- create:limestone_bricks_stairs
+- create:fancy_limestone_bricks_stairs
+- create:paved_limestone_stairs
+- create:weathered_limestone_cobblestone_stairs
+- create:polished_weathered_limestone_stairs
+- create:weathered_limestone_bricks_stairs
+- create:fancy_weathered_limestone_bricks_stairs
+- create:paved_weathered_limestone_stairs
+- create:dolomite_cobblestone_stairs
+- create:polished_dolomite_stairs
+- create:dolomite_bricks_stairs
+- create:fancy_dolomite_bricks_stairs
+- create:paved_dolomite_stairs
+- create:gabbro_cobblestone_stairs
+- create:polished_gabbro_stairs
+- create:gabbro_bricks_stairs
+- create:fancy_gabbro_bricks_stairs
+- create:paved_gabbro_stairs
+- create:scoria_cobblestone_stairs
+- create:polished_scoria_stairs
+- create:scoria_bricks_stairs
+- create:fancy_scoria_bricks_stairs
+- create:paved_scoria_stairs
+- create:dark_scoria_cobblestone_stairs
+- create:polished_dark_scoria_stairs
+- create:dark_scoria_bricks_stairs
+- create:fancy_dark_scoria_bricks_stairs
+- create:paved_dark_scoria_stairs
+- endergetic:eumus_brick_stairs
+- biomesoplenty:black_sandstone_stairs
+- biomesoplenty:smooth_black_sandstone_stairs
+- biomesoplenty:orange_sandstone_stairs
+- biomesoplenty:smooth_orange_sandstone_stairs
+- biomesoplenty:white_sandstone_stairs
+- biomesoplenty:smooth_white_sandstone_stairs
+- biomesoplenty:mud_brick_stairs
+- biomesoplenty:fir_stairs
+- biomesoplenty:redwood_stairs
+- biomesoplenty:cherry_stairs
+- biomesoplenty:mahogany_stairs
+- biomesoplenty:jacaranda_stairs
+- biomesoplenty:palm_stairs
+- biomesoplenty:willow_stairs
+- biomesoplenty:dead_stairs
+- biomesoplenty:magic_stairs
+- biomesoplenty:umbran_stairs
+- biomesoplenty:hellbark_stairs
+
+#silentgems:glowroses/alexandrite
+- silentgems:alexandrite_glowrose
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- #biomesoplenty:fir_logs
+- #biomesoplenty:redwood_logs
+- #biomesoplenty:cherry_logs
+- #biomesoplenty:mahogany_logs
+- #biomesoplenty:jacaranda_logs
+- #biomesoplenty:palm_logs
+- #biomesoplenty:willow_logs
+- #biomesoplenty:dead_logs
+- #biomesoplenty:magic_logs
+- #biomesoplenty:umbran_logs
+- #biomesoplenty:hellbark_logs
+- #silentgear:netherwood_logs
+
+#forge:storage_blocks/coral
+- silentgems:coral_block
+
+#forge:ores/green_sapphire
+- silentgems:green_sapphire_ore
+
+#minecraft:valid_spawn
+- minecraft:grass_block
+- minecraft:podzol
+- biomesoplenty:origin_grass_block
+
+#minecraft:mushroom_grow_block
+- minecraft:mycelium
+- minecraft:podzol
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+- supplementaries:planter
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- endergetic:poise_door
+- biomesoplenty:fir_door
+- biomesoplenty:redwood_door
+- biomesoplenty:cherry_door
+- biomesoplenty:mahogany_door
+- biomesoplenty:jacaranda_door
+- biomesoplenty:palm_door
+- biomesoplenty:willow_door
+- biomesoplenty:dead_door
+- biomesoplenty:magic_door
+- biomesoplenty:umbran_door
+- biomesoplenty:hellbark_door
+- silentgear:netherwood_door
+
+#silentgems:glowroses/rose_quartz
+- silentgems:rose_quartz_glowrose
+
+#silentgems:glowroses/turquoise
+- silentgems:turquoise_glowrose
+
+#silentgems:glowroses/euclase
+- silentgems:euclase_glowrose
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+
+#forge:storage_blocks/opal
+- silentgems:opal_block
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#quark:hedges
+
+#forge:storage_blocks/ruby
+- silentgems:ruby_block
+
+#silentgems:glowroses/phosphophyllite
+- silentgems:phosphophyllite_glowrose
+
+#forge:ores/kyanite
+- silentgems:kyanite_ore
+
+#minecraft:beacon_base_blocks
+- minecraft:netherite_block
+- minecraft:emerald_block
+- minecraft:diamond_block
+- minecraft:gold_block
+- minecraft:iron_block
+- mekanism:block_osmium
+- mekanism:block_copper
+- mekanism:block_tin
+- mekanism:block_lead
+- mekanism:block_uranium
+- mekanism:block_bronze
+- mekanism:block_refined_obsidian
+- mekanism:block_refined_glowstone
+- mekanism:block_steel
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+- silentgems:ruby_block
+- silentgems:garnet_block
+- silentgems:topaz_block
+- silentgems:amber_block
+- silentgems:heliodor_block
+- silentgems:peridot_block
+- silentgems:green_sapphire_block
+- silentgems:phosphophyllite_block
+- silentgems:aquamarine_block
+- silentgems:sapphire_block
+- silentgems:tanzanite_block
+- silentgems:amethyst_block
+- silentgems:agate_block
+- silentgems:morganite_block
+- silentgems:onyx_block
+- silentgems:opal_block
+- silentgems:carnelian_block
+- silentgems:spinel_block
+- silentgems:citrine_block
+- silentgems:jasper_block
+- silentgems:zircon_block
+- silentgems:moldavite_block
+- silentgems:malachite_block
+- silentgems:turquoise_block
+- silentgems:euclase_block
+- silentgems:benitoite_block
+- silentgems:iolite_block
+- silentgems:alexandrite_block
+- silentgems:lepidolite_block
+- silentgems:ametrine_block
+- silentgems:black_diamond_block
+- silentgems:moonstone_block
+- silentgems:pyrope_block
+- silentgems:coral_block
+- silentgems:sunstone_block
+- silentgems:cats_eye_block
+- silentgems:yellow_diamond_block
+- silentgems:jade_block
+- silentgems:chrysoprase_block
+- silentgems:apatite_block
+- silentgems:fluorite_block
+- silentgems:kyanite_block
+- silentgems:sodalite_block
+- silentgems:ammolite_block
+- silentgems:kunzite_block
+- silentgems:rose_quartz_block
+- silentgems:tektite_block
+- silentgems:pearl_block
+- silentgems:silver_block
+- silentgems:chaos_iron_block
+- silentgems:chaos_gold_block
+- silentgems:chaos_silver_block
+
+#silentgems:corruptables/dirt
+- #forge:dirt
+- minecraft:grass
+
+#forge:storage_blocks/lepidolite
+- silentgems:lepidolite_block
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+- biomesoplenty:black_sand
+- biomesoplenty:orange_sand
+- biomesoplenty:white_sand
+
+#minecraft:wall_corals
+- minecraft:tube_coral_wall_fan
+- minecraft:brain_coral_wall_fan
+- minecraft:bubble_coral_wall_fan
+- minecraft:fire_coral_wall_fan
+- minecraft:horn_coral_wall_fan
+
+#silentgems:glowroses/pyrope
+- silentgems:pyrope_glowrose
+
+#forge:storage_blocks/silver
+- silentgems:silver_block
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#forge:ores/tanzanite
+- silentgems:tanzanite_ore
+
+#minecraft:piglin_repellents
+- minecraft:soul_fire
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_wall_torch
+- minecraft:soul_campfire
+- buzzier_bees:soul_candle
+- supplementaries:sconce_soul
+- supplementaries:sconce_wall_soul
+
+#forge:storage_blocks/pearl
+- silentgems:pearl_block
+
+#forge:ores/aquamarine
+- silentgems:aquamarine_ore
+
+#biomesoplenty:palm_logs
+- biomesoplenty:palm_log
+- biomesoplenty:palm_wood
+- biomesoplenty:stripped_palm_log
+- biomesoplenty:stripped_palm_wood
+
+#forge:glass/black
+- minecraft:black_stained_glass
+
+#minecraft:portals
+- minecraft:nether_portal
+- minecraft:end_portal
+- minecraft:end_gateway
+
+#forge:ores/phosphophyllite
+- silentgems:phosphophyllite_ore
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+
+#forge:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+- endergetic:poise_chest
+- endergetic:poise_trapped_chest
+
+#forge:ores/iron
+- minecraft:iron_ore
+
+#silentgems:corruptables/stone
+- #forge:stone
+
+#forge:ores/benitoite
+- silentgems:benitoite_ore
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- endergetic:poise_stairs
+- biomesoplenty:fir_stairs
+- biomesoplenty:redwood_stairs
+- biomesoplenty:cherry_stairs
+- biomesoplenty:mahogany_stairs
+- biomesoplenty:jacaranda_stairs
+- biomesoplenty:palm_stairs
+- biomesoplenty:willow_stairs
+- biomesoplenty:dead_stairs
+- biomesoplenty:magic_stairs
+- biomesoplenty:umbran_stairs
+- biomesoplenty:hellbark_stairs
+- silentgear:netherwood_stairs
+
+#forge:ores/cats_eye
+- silentgems:cats_eye_ore
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:base_stone_overworld
+- minecraft:stone
+- minecraft:granite
+- minecraft:diorite
+- minecraft:andesite
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- endergetic:poise_button
+- biomesoplenty:fir_button
+- biomesoplenty:redwood_button
+- biomesoplenty:cherry_button
+- biomesoplenty:mahogany_button
+- biomesoplenty:jacaranda_button
+- biomesoplenty:palm_button
+- biomesoplenty:willow_button
+- biomesoplenty:dead_button
+- biomesoplenty:magic_button
+- biomesoplenty:umbran_button
+- biomesoplenty:hellbark_button
+
+#forge:ores/spinel
+- silentgems:spinel_ore
+
+#biomesoplenty:umbran_logs
+- biomesoplenty:umbran_log
+- biomesoplenty:umbran_wood
+- biomesoplenty:stripped_umbran_log
+- biomesoplenty:stripped_umbran_wood
+
+#forge:storage_blocks/kunzite
+- silentgems:kunzite_block
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#silentgems:glowroses/citrine
+- silentgems:citrine_glowrose
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+
+#forge:storage_blocks/moldavite
+- silentgems:moldavite_block
+
+#silentgems:glowroses/peridot
+- silentgems:peridot_glowrose
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- buzzier_bees:honeycomb_brick_slab
+- buzzier_bees:honeycomb_tile_slab
+- create:granite_cobblestone_slab
+- create:granite_bricks_slab
+- create:fancy_granite_bricks_slab
+- create:paved_granite_slab
+- create:diorite_cobblestone_slab
+- create:diorite_bricks_slab
+- create:fancy_diorite_bricks_slab
+- create:paved_diorite_slab
+- create:andesite_cobblestone_slab
+- create:andesite_bricks_slab
+- create:fancy_andesite_bricks_slab
+- create:paved_andesite_slab
+- create:limestone_cobblestone_slab
+- create:polished_limestone_slab
+- create:limestone_bricks_slab
+- create:fancy_limestone_bricks_slab
+- create:paved_limestone_slab
+- create:weathered_limestone_cobblestone_slab
+- create:polished_weathered_limestone_slab
+- create:weathered_limestone_bricks_slab
+- create:fancy_weathered_limestone_bricks_slab
+- create:paved_weathered_limestone_slab
+- create:dolomite_cobblestone_slab
+- create:polished_dolomite_slab
+- create:dolomite_bricks_slab
+- create:fancy_dolomite_bricks_slab
+- create:paved_dolomite_slab
+- create:gabbro_cobblestone_slab
+- create:polished_gabbro_slab
+- create:gabbro_bricks_slab
+- create:fancy_gabbro_bricks_slab
+- create:paved_gabbro_slab
+- create:scoria_cobblestone_slab
+- create:polished_scoria_slab
+- create:scoria_bricks_slab
+- create:fancy_scoria_bricks_slab
+- create:paved_scoria_slab
+- create:dark_scoria_cobblestone_slab
+- create:polished_dark_scoria_slab
+- create:dark_scoria_bricks_slab
+- create:fancy_dark_scoria_bricks_slab
+- create:paved_dark_scoria_slab
+- endergetic:eumus_brick_slab
+- biomesoplenty:black_sandstone_slab
+- biomesoplenty:cut_black_sandstone_slab
+- biomesoplenty:smooth_black_sandstone_slab
+- biomesoplenty:orange_sandstone_slab
+- biomesoplenty:cut_orange_sandstone_slab
+- biomesoplenty:smooth_orange_sandstone_slab
+- biomesoplenty:white_sandstone_slab
+- biomesoplenty:cut_white_sandstone_slab
+- biomesoplenty:smooth_white_sandstone_slab
+- biomesoplenty:mud_brick_slab
+- biomesoplenty:fir_slab
+- biomesoplenty:redwood_slab
+- biomesoplenty:cherry_slab
+- biomesoplenty:mahogany_slab
+- biomesoplenty:jacaranda_slab
+- biomesoplenty:palm_slab
+- biomesoplenty:willow_slab
+- biomesoplenty:dead_slab
+- biomesoplenty:magic_slab
+- biomesoplenty:umbran_slab
+- biomesoplenty:hellbark_slab
+
+#forge:ores/moonstone
+- silentgems:moonstone_ore
+
+#minecraft:guarded_by_piglins
+- minecraft:gold_block
+- minecraft:barrel
+- minecraft:chest
+- minecraft:ender_chest
+- minecraft:gilded_blackstone
+- minecraft:trapped_chest
+- #minecraft:shulker_boxes
+- #minecraft:gold_ores
+- mekanism:block_refined_glowstone
+- mekanism:personal_chest
+- supplementaries:sack
+- geolosys:nether_gold_ore
+
+#forge:storage_blocks/topaz
+- silentgems:topaz_block
+
+#forge:ores/emerald
+- minecraft:emerald_ore
+
+#forge:ores/sodalite
+- silentgems:sodalite_ore
+
+#forge:ores/apatite
+- silentgems:apatite_ore
+
+#forge:ores/carnelian
+- silentgems:carnelian_ore
+
+#minecraft:corals
+- #minecraft:coral_plants
+- minecraft:tube_coral_fan
+- minecraft:brain_coral_fan
+- minecraft:bubble_coral_fan
+- minecraft:fire_coral_fan
+- minecraft:horn_coral_fan
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+- create:cart_assembler
+- create:reinforced_rail
+- create:controller_rail
+
+#forge:storage_blocks/zircon
+- silentgems:zircon_block
+
+#minecraft:strider_warm_blocks
+- minecraft:lava
+
+#forge:ores/morganite
+- silentgems:morganite_ore
+
+#forge:ores/black_diamond
+- silentgems:black_diamond_ore
+
+#silentgems:glowroses/cats_eye
+- silentgems:cats_eye_glowrose
+
+#endergetic:chorus_plantable
+- endergetic:end_corrock_block
+- endergetic:nether_corrock_block
+- endergetic:overworld_corrock_block
+- endergetic:petrified_end_corrock_block
+- endergetic:petrified_nether_corrock_block
+- endergetic:petrified_overworld_corrock_block
+- minecraft:end_stone
+
+#minecraft:bee_growables
+- #minecraft:crops
+- minecraft:sweet_berry_bush
+- berry_good:sweet_berry_bush_pips
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- endergetic:poise_pressure_plate
+- biomesoplenty:fir_pressure_plate
+- biomesoplenty:redwood_pressure_plate
+- biomesoplenty:cherry_pressure_plate
+- biomesoplenty:mahogany_pressure_plate
+- biomesoplenty:jacaranda_pressure_plate
+- biomesoplenty:palm_pressure_plate
+- biomesoplenty:willow_pressure_plate
+- biomesoplenty:dead_pressure_plate
+- biomesoplenty:magic_pressure_plate
+- biomesoplenty:umbran_pressure_plate
+- biomesoplenty:hellbark_pressure_plate
+
+#create:brittle
+- create:nozzle
+- create:hand_crank
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+- create:rope
+- create:pulley_magnet
+- create:furnace_engine
+- create:redstone_link
+- #minecraft:doors
+- minecraft:flower_pot
+- minecraft:bell
+- minecraft:cocoa
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+- biomesoplenty:blue_hydrangea
+- biomesoplenty:goldenrod
+
+#biomesoplenty:redwood_logs
+- biomesoplenty:redwood_log
+- biomesoplenty:redwood_wood
+- biomesoplenty:stripped_redwood_log
+- biomesoplenty:stripped_redwood_wood
+
+#biomesoplenty:jacaranda_logs
+- biomesoplenty:jacaranda_log
+- biomesoplenty:jacaranda_wood
+- biomesoplenty:stripped_jacaranda_log
+- biomesoplenty:stripped_jacaranda_wood
+
+#silentgems:glowroses
+- #silentgems:glowroses/ruby
+- #silentgems:glowroses/garnet
+- #silentgems:glowroses/topaz
+- #silentgems:glowroses/amber
+- #silentgems:glowroses/heliodor
+- #silentgems:glowroses/peridot
+- #silentgems:glowroses/green_sapphire
+- #silentgems:glowroses/phosphophyllite
+- #silentgems:glowroses/aquamarine
+- #silentgems:glowroses/sapphire
+- #silentgems:glowroses/tanzanite
+- #silentgems:glowroses/amethyst
+- #silentgems:glowroses/agate
+- #silentgems:glowroses/morganite
+- #silentgems:glowroses/onyx
+- #silentgems:glowroses/opal
+- #silentgems:glowroses/carnelian
+- #silentgems:glowroses/spinel
+- #silentgems:glowroses/citrine
+- #silentgems:glowroses/jasper
+- #silentgems:glowroses/zircon
+- #silentgems:glowroses/moldavite
+- #silentgems:glowroses/malachite
+- #silentgems:glowroses/turquoise
+- #silentgems:glowroses/euclase
+- #silentgems:glowroses/benitoite
+- #silentgems:glowroses/iolite
+- #silentgems:glowroses/alexandrite
+- #silentgems:glowroses/lepidolite
+- #silentgems:glowroses/ametrine
+- #silentgems:glowroses/black_diamond
+- #silentgems:glowroses/moonstone
+- #silentgems:glowroses/pyrope
+- #silentgems:glowroses/coral
+- #silentgems:glowroses/sunstone
+- #silentgems:glowroses/cats_eye
+- #silentgems:glowroses/yellow_diamond
+- #silentgems:glowroses/jade
+- #silentgems:glowroses/chrysoprase
+- #silentgems:glowroses/apatite
+- #silentgems:glowroses/fluorite
+- #silentgems:glowroses/kyanite
+- #silentgems:glowroses/sodalite
+- #silentgems:glowroses/ammolite
+- #silentgems:glowroses/kunzite
+- #silentgems:glowroses/rose_quartz
+- #silentgems:glowroses/tektite
+- #silentgems:glowroses/pearl
+
+#minecraft:stone_pressure_plates
+- minecraft:stone_pressure_plate
+- minecraft:polished_blackstone_pressure_plate
+
+#silentgems:glowroses/sodalite
+- silentgems:sodalite_glowrose
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#forge:storage_blocks/crimson_steel
+- silentgear:crimson_steel_block
+
+#forge:netherrack
+- minecraft:netherrack
+
+#forge:storage_blocks/phosphophyllite
+- silentgems:phosphophyllite_block
+
+#forge:storage_blocks/chrysoprase
+- silentgems:chrysoprase_block
+
+#create:non_movable
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#silentgems:glowroses/benitoite
+- silentgems:benitoite_glowrose
+
+#silentgems:hardened_rocks
+- silentgems:hardened_stone
+- silentgems:hardened_netherrack
+- silentgems:hardened_end_stone
+
+#forge:gravel
+- minecraft:gravel
+
+#silentgems:glowroses/amethyst
+- silentgems:amethyst_glowrose
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#forge:ores/onyx
+- silentgems:onyx_ore
+
+#biomesoplenty:magic_logs
+- biomesoplenty:magic_log
+- biomesoplenty:magic_wood
+- biomesoplenty:stripped_magic_log
+- biomesoplenty:stripped_magic_wood
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#silentgear:netherwood_logs
+- silentgear:netherwood_log
+- silentgear:stripped_netherwood_log
+- silentgear:netherwood_wood
+- silentgear:stripped_netherwood_wood
+
+#forge:glass/colorless
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+- minecraft:glass
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#minecraft:beehives
+- minecraft:bee_nest
+- minecraft:beehive
+- buzzier_bees:spruce_beehive
+- buzzier_bees:birch_beehive
+- buzzier_bees:jungle_beehive
+- buzzier_bees:acacia_beehive
+- buzzier_bees:dark_oak_beehive
+- buzzier_bees:crimson_beehive
+- buzzier_bees:warped_beehive
+- endergetic:poise_beehive
+
+#minecraft:ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+- minecraft:frosted_ice
+
+#forge:ores/citrine
+- silentgems:citrine_ore
+
+#forge:ores/zinc
+- create:zinc_ore
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#minecraft:crops
+- minecraft:beetroots
+- minecraft:carrots
+- minecraft:potatoes
+- minecraft:wheat
+- minecraft:melon_stem
+- minecraft:pumpkin_stem
+- silentgear:flax_plant
+- silentgear:fluffy_plant
+- silentgems:fluffy_puff_plant
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:storage_blocks/tyrian_steel
+- silentgear:tyrian_steel_block
+
+#forge:storage_blocks/amber
+- silentgems:amber_block
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#passablefoliage:passables
+- #minecraft:leaves
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#create:seats
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#silentgems:glowroses/amber
+- silentgems:amber_glowrose
+
+#silentgems:glowroses/yellow_diamond
+- silentgems:yellow_diamond_glowrose
+
+#forge:ores/sapphire
+- silentgems:sapphire_ore
+
+#minecraft:climbable
+- minecraft:ladder
+- minecraft:vine
+- minecraft:scaffolding
+- minecraft:weeping_vines
+- minecraft:weeping_vines_plant
+- minecraft:twisting_vines
+- minecraft:twisting_vines_plant
+- supplementaries:rope
+- biomesoplenty:willow_vine
+
+#forge:storage_blocks/agate
+- silentgems:agate_block
+
+#silentgems:supercharger_pillar/level1
+- #forge:storage_blocks/chaos_iron
+
+#silentgems:supercharger_pillar/level3
+- silentgems:ender_crystal_block
+
+#silentgems:glowroses/kunzite
+- silentgems:kunzite_glowrose
+
+#silentgems:supercharger_pillar/level2
+- silentgems:enriched_chaos_crystal_block
+
+#storagedrawers:drawers
+- storagedrawers:oak_full_drawers_1
+- storagedrawers:oak_full_drawers_2
+- storagedrawers:oak_full_drawers_4
+- storagedrawers:oak_half_drawers_1
+- storagedrawers:oak_half_drawers_2
+- storagedrawers:oak_half_drawers_4
+- storagedrawers:spruce_full_drawers_1
+- storagedrawers:spruce_full_drawers_2
+- storagedrawers:spruce_full_drawers_4
+- storagedrawers:spruce_half_drawers_1
+- storagedrawers:spruce_half_drawers_2
+- storagedrawers:spruce_half_drawers_4
+- storagedrawers:birch_full_drawers_1
+- storagedrawers:birch_full_drawers_2
+- storagedrawers:birch_full_drawers_4
+- storagedrawers:birch_half_drawers_1
+- storagedrawers:birch_half_drawers_2
+- storagedrawers:birch_half_drawers_4
+- storagedrawers:jungle_full_drawers_1
+- storagedrawers:jungle_full_drawers_2
+- storagedrawers:jungle_full_drawers_4
+- storagedrawers:jungle_half_drawers_1
+- storagedrawers:jungle_half_drawers_2
+- storagedrawers:jungle_half_drawers_4
+- storagedrawers:acacia_full_drawers_1
+- storagedrawers:acacia_full_drawers_2
+- storagedrawers:acacia_full_drawers_4
+- storagedrawers:acacia_half_drawers_1
+- storagedrawers:acacia_half_drawers_2
+- storagedrawers:acacia_half_drawers_4
+- storagedrawers:dark_oak_full_drawers_1
+- storagedrawers:dark_oak_full_drawers_2
+- storagedrawers:dark_oak_full_drawers_4
+- storagedrawers:dark_oak_half_drawers_1
+- storagedrawers:dark_oak_half_drawers_2
+- storagedrawers:dark_oak_half_drawers_4
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#forge:storage_blocks/steel
+- mekanism:block_steel
+
+#quark:ladders
+- endergetic:poise_ladder
+
+#supplementaries:ropes
+- supplementaries:rope
+
+#forge:glass_panes
+- create:tiled_glass_pane
+- create:framed_glass_pane
+- create:horizontal_framed_glass_pane
+- create:vertical_framed_glass_pane
+- create:oak_window_pane
+- create:spruce_window_pane
+- create:birch_window_pane
+- create:jungle_window_pane
+- create:acacia_window_pane
+- create:dark_oak_window_pane
+- create:crimson_window_pane
+- create:warped_window_pane
+- create:ornate_iron_window_pane
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+
+#minecraft:coral_plants
+- minecraft:tube_coral
+- minecraft:brain_coral
+- minecraft:bubble_coral
+- minecraft:fire_coral
+- minecraft:horn_coral
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+- supplementaries:hanging_sign_warped
+- supplementaries:hanging_sign_crimson
+- biomesoplenty:hellbark_log
+- biomesoplenty:hellbark_wood
+- biomesoplenty:stripped_hellbark_log
+- biomesoplenty:stripped_hellbark_wood
+- biomesoplenty:hellbark_planks
+- biomesoplenty:hellbark_slab
+- biomesoplenty:hellbark_pressure_plate
+- biomesoplenty:hellbark_fence
+- biomesoplenty:hellbark_trapdoor
+- biomesoplenty:hellbark_fence_gate
+- biomesoplenty:hellbark_stairs
+- biomesoplenty:hellbark_button
+- biomesoplenty:hellbark_door
+
+#forge:ores/fluorite
+- mekanism:fluorite_ore
+- silentgems:fluorite_ore
+
+#forge:storage_blocks/refined_glowstone
+- mekanism:block_refined_glowstone
+
+#silentgems:glowroses/fluorite
+- silentgems:fluorite_glowrose
+
+#forge:storage_blocks/bronze
+- mekanism:block_bronze
+
+#silentgems:glowroses/sapphire
+- silentgems:sapphire_glowrose
+
+#create:safe_nbt
+- create:creative_motor
+- create:creative_fluid_tank
+- create:mechanical_piston
+- create:sticky_mechanical_piston
+- create:windmill_bearing
+- create:mechanical_bearing
+- create:clockwork_bearing
+- create:rope_pulley
+- create:cart_assembler
+- create:linear_chassis
+- create:secondary_linear_chassis
+- create:radial_chassis
+- create:sequenced_gearshift
+- create:rotation_speed_controller
+- create:andesite_funnel
+- create:andesite_belt_funnel
+- create:brass_funnel
+- create:brass_belt_funnel
+- create:creative_crate
+- create:redstone_link
+- create:analog_lever
+- create:adjustable_repeater
+- create:adjustable_pulse_repeater
+
+#forge:storage_blocks/carnelian
+- silentgems:carnelian_block
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- pamhc2trees:apple_sapling
+- pamhc2trees:avocado_sapling
+- pamhc2trees:candlenut_sapling
+- pamhc2trees:cherry_sapling
+- pamhc2trees:chestnut_sapling
+- pamhc2trees:gooseberry_sapling
+- pamhc2trees:lemon_sapling
+- pamhc2trees:nutmeg_sapling
+- pamhc2trees:orange_sapling
+- pamhc2trees:peach_sapling
+- pamhc2trees:pear_sapling
+- pamhc2trees:plum_sapling
+- pamhc2trees:walnut_sapling
+- pamhc2trees:spiderweb_sapling
+- pamhc2trees:hazelnut_sapling
+- pamhc2trees:pawpaw_sapling
+- pamhc2trees:soursop_sapling
+- pamhc2trees:almond_sapling
+- pamhc2trees:apricot_sapling
+- pamhc2trees:banana_sapling
+- pamhc2trees:cashew_sapling
+- pamhc2trees:cinnamon_sapling
+- pamhc2trees:coconut_sapling
+- pamhc2trees:date_sapling
+- pamhc2trees:dragonfruit_sapling
+- pamhc2trees:durian_sapling
+- pamhc2trees:fig_sapling
+- pamhc2trees:grapefruit_sapling
+- pamhc2trees:lime_sapling
+- pamhc2trees:mango_sapling
+- pamhc2trees:olive_sapling
+- pamhc2trees:papaya_sapling
+- pamhc2trees:paperbark_sapling
+- pamhc2trees:pecan_sapling
+- pamhc2trees:peppercorn_sapling
+- pamhc2trees:persimmon_sapling
+- pamhc2trees:pistachio_sapling
+- pamhc2trees:pomegranate_sapling
+- pamhc2trees:starfruit_sapling
+- pamhc2trees:vanillabean_sapling
+- pamhc2trees:breadfruit_sapling
+- pamhc2trees:guava_sapling
+- pamhc2trees:jackfruit_sapling
+- pamhc2trees:lychee_sapling
+- pamhc2trees:passionfruit_sapling
+- pamhc2trees:rambutan_sapling
+- pamhc2trees:tamarind_sapling
+- pamhc2trees:maple_sapling
+- pamhc2trees:pinenut_sapling
+- biomesoplenty:origin_sapling
+- biomesoplenty:flowering_oak_sapling
+- biomesoplenty:rainbow_birch_sapling
+- biomesoplenty:yellow_autumn_sapling
+- biomesoplenty:orange_autumn_sapling
+- biomesoplenty:maple_sapling
+- biomesoplenty:fir_sapling
+- biomesoplenty:redwood_sapling
+- biomesoplenty:white_cherry_sapling
+- biomesoplenty:pink_cherry_sapling
+- biomesoplenty:mahogany_sapling
+- biomesoplenty:jacaranda_sapling
+- biomesoplenty:palm_sapling
+- biomesoplenty:willow_sapling
+- biomesoplenty:dead_sapling
+- biomesoplenty:magic_sapling
+- biomesoplenty:umbran_sapling
+- biomesoplenty:hellbark_sapling
+- silentgear:netherwood_sapling
+
+#forge:storage_blocks/tin
+- mekanism:block_tin
+
+#forge:ores/copper
+- mekanism:copper_ore
+- create:copper_ore
+
+#minecraft:unstable_bottom_center
+- #minecraft:fence_gates
+
+#minecraft:enderman_holdable
+- #minecraft:small_flowers
+- minecraft:grass_block
+- minecraft:dirt
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:gravel
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:tnt
+- minecraft:cactus
+- minecraft:clay
+- minecraft:pumpkin
+- minecraft:carved_pumpkin
+- minecraft:melon
+- minecraft:mycelium
+- minecraft:crimson_fungus
+- minecraft:crimson_nylium
+- minecraft:crimson_roots
+- minecraft:warped_fungus
+- minecraft:warped_nylium
+- minecraft:warped_roots
+- biomesoplenty:black_sand
+- biomesoplenty:orange_sand
+- biomesoplenty:white_sand
+- biomesoplenty:toadstool
+- biomesoplenty:glowshroom
+- biomesoplenty:origin_grass_block
+- silentgems:corrupted_stone
+- silentgems:corrupted_dirt
+- #silentgems:glowroses
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+- minecraft:white_wall_banner
+- minecraft:orange_wall_banner
+- minecraft:magenta_wall_banner
+- minecraft:light_blue_wall_banner
+- minecraft:yellow_wall_banner
+- minecraft:lime_wall_banner
+- minecraft:pink_wall_banner
+- minecraft:gray_wall_banner
+- minecraft:light_gray_wall_banner
+- minecraft:cyan_wall_banner
+- minecraft:purple_wall_banner
+- minecraft:blue_wall_banner
+- minecraft:brown_wall_banner
+- minecraft:green_wall_banner
+- minecraft:red_wall_banner
+- minecraft:black_wall_banner
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- endergetic:poise_fence
+- biomesoplenty:fir_fence
+- biomesoplenty:redwood_fence
+- biomesoplenty:cherry_fence
+- biomesoplenty:mahogany_fence
+- biomesoplenty:jacaranda_fence
+- biomesoplenty:palm_fence
+- biomesoplenty:willow_fence
+- biomesoplenty:dead_fence
+- biomesoplenty:magic_fence
+- biomesoplenty:umbran_fence
+- biomesoplenty:hellbark_fence
+- silentgear:netherwood_fence
+
+#minecraft:wall_post_override
+- minecraft:torch
+- minecraft:soul_torch
+- minecraft:redstone_torch
+- minecraft:tripwire
+- #minecraft:signs
+- #minecraft:banners
+- #minecraft:pressure_plates
+- supplementaries:sconce
+- supplementaries:sconce_soul
+- supplementaries:sconce_ender
+- supplementaries:sconce_green
+- supplementaries:crank
+
+#silentgems:glowroses/ammolite
+- silentgems:ammolite_glowrose
+
+#forge:obsidian
+- minecraft:obsidian
+
+#forge:storage_blocks/blaze_gold
+- silentgear:blaze_gold_block
+
+#forge:enderman_place_on_blacklist
+
+#silentgems:glowroses/agate
+- silentgems:agate_glowrose
+
+#forge:chests/electric
+- mekanism:personal_chest
+
+#forge:storage_blocks/citrine
+- silentgems:citrine_block
+
+#biomesoplenty:mahogany_logs
+- biomesoplenty:mahogany_log
+- biomesoplenty:mahogany_wood
+- biomesoplenty:stripped_mahogany_log
+- biomesoplenty:stripped_mahogany_wood
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+
+#forge:ores/coal
+- minecraft:coal_ore
+
+#minecraft:fire
+- minecraft:fire
+- minecraft:soul_fire
+- endergetic:ender_fire
+
+#minecraft:base_stone_nether
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:blackstone
+
+#minecraft:wall_signs
+- minecraft:oak_wall_sign
+- minecraft:spruce_wall_sign
+- minecraft:birch_wall_sign
+- minecraft:acacia_wall_sign
+- minecraft:jungle_wall_sign
+- minecraft:dark_oak_wall_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+- endergetic:poise_wall_sign
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- buzzier_bees:honeycomb_trapdoor
+- supplementaries:gold_trapdoor
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+
+#forge:ores/ammolite
+- silentgems:ammolite_ore
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- biomesoplenty:origin_leaves
+- biomesoplenty:flowering_oak_leaves
+- biomesoplenty:rainbow_birch_leaves
+- biomesoplenty:yellow_autumn_leaves
+- biomesoplenty:orange_autumn_leaves
+- biomesoplenty:maple_leaves
+- biomesoplenty:fir_leaves
+- biomesoplenty:redwood_leaves
+- biomesoplenty:white_cherry_leaves
+- biomesoplenty:pink_cherry_leaves
+- biomesoplenty:mahogany_leaves
+- biomesoplenty:jacaranda_leaves
+- biomesoplenty:palm_leaves
+- biomesoplenty:willow_leaves
+- biomesoplenty:dead_leaves
+- biomesoplenty:magic_leaves
+- biomesoplenty:umbran_leaves
+- biomesoplenty:hellbark_leaves
+- silentgear:netherwood_leaves
+
+#buzzier_bees:flower_blacklist
+- minecraft:wither_rose
+- #botania:mystical_flowers?
+- #botania:special_flowers?
+
+#forge:storage_blocks/brass
+- create:brass_block
+
+#forge:ores/amethyst
+- silentgems:amethyst_ore
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#minecraft:wither_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+- supplementaries:piston_launcher_arm
+- supplementaries:safe
+- endergetic:mystical_obsidian
+- endergetic:mystical_obsidian_wall
+- endergetic:mystical_obsidian_rune
+- endergetic:mystical_obsidian_activation_rune
+- endergetic:activated_mystical_obsidian_activation_rune
+- endergetic:acidian_lantern
+- endergetic:crystal_holder
+- endergetic:ender_fire
+
+#forge:ores/jasper
+- silentgems:jasper_ore
+
+#forge:ores/ruby
+- silentgems:ruby_ore
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#forge:ores/opal
+- silentgems:opal_ore
+
+#silentgems:glowroses/carnelian
+- silentgems:carnelian_glowrose
+
+#forge:storage_blocks/zinc
+- create:zinc_block
+
+#forge:sand/red
+- minecraft:red_sand
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+
+#forge:storage_blocks/onyx
+- silentgems:onyx_block
+
+#create:sails
+- create:orange_sail
+- create:magenta_sail
+- create:light_blue_sail
+- create:yellow_sail
+- create:lime_sail
+- create:pink_sail
+- create:gray_sail
+- create:light_gray_sail
+- create:cyan_sail
+- create:purple_sail
+- create:blue_sail
+- create:brown_sail
+- create:green_sail
+- create:red_sail
+- create:black_sail
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #endergetic:poise_stems
+- #biomesoplenty:fir_logs
+- #biomesoplenty:redwood_logs
+- #biomesoplenty:cherry_logs
+- #biomesoplenty:mahogany_logs
+- #biomesoplenty:jacaranda_logs
+- #biomesoplenty:palm_logs
+- #biomesoplenty:willow_logs
+- #biomesoplenty:dead_logs
+- #biomesoplenty:magic_logs
+- #biomesoplenty:umbran_logs
+
+#silentgems:glowroses/jasper
+- silentgems:jasper_glowrose
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+
+#endergetic:ender_fire_base_blocks
+- minecraft:end_stone
+- minecraft:end_stone_bricks
+- minecraft:end_stone_brick_slab
+- minecraft:end_stone_brick_stairs
+- minecraft:end_stone_brick_wall
+- endergetic:cracked_end_stone_bricks
+- endergetic:chiseled_end_stone_bricks
+- endergetic:eumus
+- endergetic:eumus_poismoss
+- endergetic:eumus_bricks
+- endergetic:chiseled_eumus_bricks
+- endergetic:cracked_eumus_bricks
+- endergetic:eumus_brick_slab
+- endergetic:eumus_brick_stairs
+- endergetic:eumus_brick_wall
+- endergetic:eumus_brick_vertical_slab
+- endergetic:poismoss
+- endergetic:crystal_holder
+- endergetic:mystical_obsidian_rune
+- endergetic:mystical_obsidian_activation_rune
+- endergetic:activated_mystical_obsidian_activation_rune
+- endergetic:mystical_obsidian
+- endergetic:mystical_obsidian_wall
+- quark:end_stone_brick_vertical_slab?
+- quark:biotite_ore?
+- quark:biotite_block?
+- quark:biotite_block_slab?
+- quark:biotite_block_stairs?
+- quark:biotite_block_vertical_slab?
+- quark:smooth_biotite?
+- quark:smooth_biotite_slab?
+- quark:smooth_biotite_stairs?
+- quark:smooth_biotite_vertical_slab?
+- quark:chiseled_biotite_block?
+- quark:biotite_pillar?
+- quark:biotite_bricks?
+- quark:basalt?
+- quark:basalt_slab?
+- quark:basalt_stairs?
+- quark:basalt_wall?
+- quark:basalt_vertical_slab?
+- quark:polished_basalt?
+- quark:polished_basalt_slab?
+- quark:polished_basalt_stairs?
+- quark:polished_basalt_vertical_slab?
+- quark:basalt_bricks?
+- quark:basalt_bricks_slab?
+- quark:basalt_bricks_stairs?
+- quark:basalt_bricks_wall?
+- quark:basalt_bricks_vertical_slab?
+- quark:chiseled_basalt_bricks?
+- quark:basalt_pavement?
+- quark:basalt_pillar?
+- quark:basalt_speleothem?
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#forge:storage_blocks/pyrope
+- silentgems:pyrope_block
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- endergetic:poise_slab
+- biomesoplenty:fir_slab
+- biomesoplenty:redwood_slab
+- biomesoplenty:cherry_slab
+- biomesoplenty:mahogany_slab
+- biomesoplenty:jacaranda_slab
+- biomesoplenty:palm_slab
+- biomesoplenty:willow_slab
+- biomesoplenty:dead_slab
+- biomesoplenty:magic_slab
+- biomesoplenty:umbran_slab
+- biomesoplenty:hellbark_slab
+- silentgear:netherwood_slab
+
+#doubleslabs:plank_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- buzzier_bees:white_clover
+- buzzier_bees:pink_clover
+- buzzier_bees:buttercup
+- biomesoplenty:rose
+- biomesoplenty:violet
+- biomesoplenty:lavender
+- biomesoplenty:wildflower
+- biomesoplenty:orange_cosmos
+- biomesoplenty:pink_daffodil
+- biomesoplenty:pink_hibiscus
+- biomesoplenty:glowflower
+- biomesoplenty:wilted_lily
+- biomesoplenty:burning_blossom
+- #silentgems:glowroses
+
+#forge:storage_blocks/refined_obsidian
+- mekanism:block_refined_obsidian
+
+#mekanism:atomic_disassembler_ore
+- #forge:ores
+- #minecraft:logs
+
+#silentgems:glowroses/ametrine
+- silentgems:ametrine_glowrose
+
+#forge:ores/osmium
+- mekanism:osmium_ore
+
+#silentgems:glowroses/coral
+- silentgems:coral_glowrose
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#silentgems:glowroses/tanzanite
+- silentgems:tanzanite_glowrose
+
+#forge:ores/zircon
+- silentgems:zircon_ore
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#silentgear:fluffy_blocks
+- silentgear:white_fluffy_block
+- silentgear:orange_fluffy_block
+- silentgear:magenta_fluffy_block
+- silentgear:light_blue_fluffy_block
+- silentgear:yellow_fluffy_block
+- silentgear:lime_fluffy_block
+- silentgear:pink_fluffy_block
+- silentgear:gray_fluffy_block
+- silentgear:light_gray_fluffy_block
+- silentgear:cyan_fluffy_block
+- silentgear:purple_fluffy_block
+- silentgear:blue_fluffy_block
+- silentgear:brown_fluffy_block
+- silentgear:green_fluffy_block
+- silentgear:red_fluffy_block
+- silentgear:black_fluffy_block
+
+#forge:ores/kunzite
+- silentgems:kunzite_ore
+
+#forge:ores/amber
+- silentgems:amber_ore
+
+#silentgems:glowroses/jade
+- silentgems:jade_glowrose
+
+#forge:stone
+- create:limestone
+- create:polished_limestone
+- create:weathered_limestone
+- create:polished_weathered_limestone
+- create:gabbro
+- create:polished_gabbro
+- create:dolomite
+- create:polished_dolomite
+- create:scoria
+- create:polished_scoria
+- create:dark_scoria
+- create:polished_dark_scoria
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+
+#minecraft:standing_signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- endergetic:poise_sign
+
+#minecraft:infiniburn_end
+- #minecraft:infiniburn_overworld
+- minecraft:bedrock
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#biomesoplenty:cherry_logs
+- biomesoplenty:cherry_log
+- biomesoplenty:cherry_wood
+- biomesoplenty:stripped_cherry_log
+- biomesoplenty:stripped_cherry_wood
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
+
+#forge:storage_blocks/sodalite
+- silentgems:sodalite_block
+
+#forge:storage_blocks/sunstone
+- silentgems:sunstone_block
+
+#forge:storage_blocks/apatite
+- silentgems:apatite_block
+
+#minecraft:shulker_boxes
+- minecraft:shulker_box
+- minecraft:black_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:green_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:red_shulker_box
+- minecraft:white_shulker_box
+- minecraft:yellow_shulker_box
+
+#forge:ores/silver
+- silentgems:silver_ore
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#create:fan_heaters
+- create:blaze_burner
+- create:lit_blaze_burner
+- minecraft:magma_block
+- minecraft:campfire
+- minecraft:lava
+- minecraft:fire
+
+#forge:storage_blocks/cats_eye
+- silentgems:cats_eye_block
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#forge:ores/iolite
+- silentgems:iolite_ore
+
+#silentgems:glowroses/moonstone
+- silentgems:moonstone_glowrose
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+
+#forge:storage_blocks/green_sapphire
+- silentgems:green_sapphire_block
+
+#forge:storage_blocks/ammolite
+- silentgems:ammolite_block
+
+#silentgear:netherwood_soil
+- #forge:netherrack
+- #forge:dirt
+- minecraft:farmland
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+
+#forge:storage_blocks/alexandrite
+- silentgems:alexandrite_block
+
+#forge:ores/lapis
+- minecraft:lapis_ore
+
+#biomesoplenty:dead_logs
+- biomesoplenty:dead_log
+- biomesoplenty:dead_wood
+- biomesoplenty:stripped_dead_log
+- biomesoplenty:stripped_dead_wood
+
+#forge:dirt
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:mycelium
+- biomesoplenty:origin_grass_block
+
+#minecraft:bamboo_plantable_on
+- #minecraft:sand
+- minecraft:bamboo
+- minecraft:bamboo_sapling
+- minecraft:gravel
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+- supplementaries:planter
+- biomesoplenty:origin_grass_block
+
+#forge:storage_blocks/jasper
+- silentgems:jasper_block
+
+#minecraft:pressure_plates
+- minecraft:light_weighted_pressure_plate
+- minecraft:heavy_weighted_pressure_plate
+- #minecraft:wooden_pressure_plates
+- #minecraft:stone_pressure_plates
+
+#create:windowable
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#silentgems:glowroses/chrysoprase
+- silentgems:chrysoprase_glowrose
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#forge:ores/euclase
+- silentgems:euclase_ore
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- endergetic:poise_fence_gate
+- biomesoplenty:fir_fence_gate
+- biomesoplenty:redwood_fence_gate
+- biomesoplenty:cherry_fence_gate
+- biomesoplenty:mahogany_fence_gate
+- biomesoplenty:jacaranda_fence_gate
+- biomesoplenty:palm_fence_gate
+- biomesoplenty:willow_fence_gate
+- biomesoplenty:dead_fence_gate
+- biomesoplenty:magic_fence_gate
+- biomesoplenty:umbran_fence_gate
+- biomesoplenty:hellbark_fence_gate
+
+#forge:ores/azure_silver
+- silentgear:azure_silver_ore
+
+#forge:ores/uranium
+- mekanism:uranium_ore
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#forge:storage_blocks/azure_silver
+- silentgear:azure_silver_block
+
+#create:windmill_sails
+- create:sail_frame
+- create:white_sail
+- create:orange_sail
+- create:magenta_sail
+- create:light_blue_sail
+- create:yellow_sail
+- create:lime_sail
+- create:pink_sail
+- create:gray_sail
+- create:light_gray_sail
+- create:cyan_sail
+- create:purple_sail
+- create:blue_sail
+- create:brown_sail
+- create:green_sail
+- create:red_sail
+- create:black_sail
+- #minecraft:wool
+
+#forge:storage_blocks/jade
+- silentgems:jade_block
+
+#endergetic:poise_plantable
+- endergetic:eumus_poismoss
+- endergetic:poismoss
+
+#forge:ores/rose_quartz
+- silentgems:rose_quartz_ore
+
+#endergetic:end_crystal_placeable
+- minecraft:obsidian
+- minecraft:bedrock
+- endergetic:crystal_holder
+- endergetic:mystical_obsidian
+- endergetic:mystical_obsidian_rune
+- endergetic:mystical_obsidian_activation_rune
+- endergetic:activated_mystical_obsidian_activation_rune
+
+#forge:storage_blocks/benitoite
+- silentgems:benitoite_block
+
+#forge:ores/alexandrite
+- silentgems:alexandrite_ore
+
+#silentgems:glowroses/lepidolite
+- silentgems:lepidolite_glowrose
+
+#silentgems:glowroses/kyanite
+- silentgems:kyanite_glowrose
+
+#forge:ores/turquoise
+- silentgems:turquoise_ore
+
+#forge:ores/peridot
+- silentgems:peridot_ore
+
+#forge:ores/garnet
+- silentgems:garnet_ore
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+
+#forge:ores/agate
+- silentgems:agate_ore
+
+#silentgems:glowroses/green_sapphire
+- silentgems:green_sapphire_glowrose
+
+#silentgems:supercharger_pillar/cap
+- #silentgems:gem_blocks
+- #forge:storage_blocks/silver
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- endergetic:poise_planks
+- biomesoplenty:fir_planks
+- biomesoplenty:redwood_planks
+- biomesoplenty:cherry_planks
+- biomesoplenty:mahogany_planks
+- biomesoplenty:jacaranda_planks
+- biomesoplenty:palm_planks
+- biomesoplenty:willow_planks
+- biomesoplenty:dead_planks
+- biomesoplenty:magic_planks
+- biomesoplenty:umbran_planks
+- biomesoplenty:hellbark_planks
+- silentgear:netherwood_planks
+
+#forge:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+
+#silentgems:glowroses/spinel
+- silentgems:spinel_glowrose
+
+#silentgems:glowroses/pearl
+- silentgems:pearl_glowrose
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#minecraft:fence_gates
+- minecraft:acacia_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- biomesoplenty:fir_fence_gate
+- biomesoplenty:redwood_fence_gate
+- biomesoplenty:cherry_fence_gate
+- biomesoplenty:mahogany_fence_gate
+- biomesoplenty:jacaranda_fence_gate
+- biomesoplenty:palm_fence_gate
+- biomesoplenty:willow_fence_gate
+- biomesoplenty:dead_fence_gate
+- biomesoplenty:magic_fence_gate
+- biomesoplenty:umbran_fence_gate
+- biomesoplenty:hellbark_fence_gate
+
+#forge:ores/ametrine
+- silentgems:ametrine_ore
+
+#forge:ores
+- #forge:ores/copper
+- #forge:ores/tin
+- #forge:ores/osmium
+- #forge:ores/uranium
+- #forge:ores/fluorite
+- #forge:ores/lead
+- create:copper_ore
+- create:zinc_ore
+- #forge:ores/coal
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+- #forge:ores/bort
+- #forge:ores/crimson_iron
+- #forge:ores/azure_silver
+- silentgems:multi_ore_classic
+- silentgems:multi_ore_dark
+- silentgems:multi_ore_light
+- silentgems:chaos_ore
+- silentgems:ender_ore
+- #forge:ores/silver
+- #forge:ores/ruby
+- #forge:ores/garnet
+- #forge:ores/topaz
+- #forge:ores/amber
+- #forge:ores/heliodor
+- #forge:ores/peridot
+- #forge:ores/green_sapphire
+- #forge:ores/phosphophyllite
+- #forge:ores/aquamarine
+- #forge:ores/sapphire
+- #forge:ores/tanzanite
+- #forge:ores/amethyst
+- #forge:ores/agate
+- #forge:ores/morganite
+- #forge:ores/onyx
+- #forge:ores/opal
+- #forge:ores/carnelian
+- #forge:ores/spinel
+- #forge:ores/citrine
+- #forge:ores/jasper
+- #forge:ores/zircon
+- #forge:ores/moldavite
+- #forge:ores/malachite
+- #forge:ores/turquoise
+- #forge:ores/euclase
+- #forge:ores/benitoite
+- #forge:ores/iolite
+- #forge:ores/alexandrite
+- #forge:ores/lepidolite
+- #forge:ores/ametrine
+- #forge:ores/black_diamond
+- #forge:ores/moonstone
+- #forge:ores/pyrope
+- #forge:ores/coral
+- #forge:ores/sunstone
+- #forge:ores/cats_eye
+- #forge:ores/yellow_diamond
+- #forge:ores/jade
+- #forge:ores/chrysoprase
+- #forge:ores/apatite
+- #forge:ores/fluorite
+- #forge:ores/kyanite
+- #forge:ores/sodalite
+- #forge:ores/ammolite
+- #forge:ores/kunzite
+- #forge:ores/rose_quartz
+- #forge:ores/tektite
+- #forge:ores/pearl
+
+#silentgems:glowroses/malachite
+- silentgems:malachite_glowrose
+
+#forge:storage_blocks/rose_quartz
+- silentgems:rose_quartz_block
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#minecraft:nylium
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+
+#forge:chests/personal
+- mekanism:personal_chest
+
+#silentgems:glowroses/apatite
+- silentgems:apatite_glowrose
+
+#supplementaries:bellows_tickable
+- #minecraft:campfires
+- minecraft:furnace
+- minecraft:blast_furnace
+- minecraft:smoker

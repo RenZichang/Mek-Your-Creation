@@ -1,0 +1,41 @@
+{
+    "type": "compactcrafting:miniaturization",
+    "version": 1,
+    "recipeSize": 3,
+    "layers": [
+      {
+        "type": "compactcrafting:filled",
+        "component": "G"
+      },
+      {
+        "type": "compactcrafting:mixed",
+        "pattern": [
+            ["G", "G", "G"],
+            ["G", "-", "G"],
+            ["G", "G", "G"]
+        ]
+      },
+      {
+        "type": "compactcrafting:filled",
+        "component": "G"
+      }
+    ],
+  
+    "catalyst": {
+      "id": "minecraft:apple",
+      "Count": 1
+    },
+  
+    "components": {
+      "G": {
+        "Name": "minecraft:gold_block"
+      }
+    },
+  
+    "outputs": [
+      {
+        "id": "minecraft:golden_apple",
+        "Count": 1
+      }
+    ]
+  }
